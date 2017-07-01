@@ -9,8 +9,6 @@ import android.util.Log;
 public class Human extends Animal implements Thinkable{
 
     //メンバ変数
-    String name; //名前
-    int age; //年齢
     String hobby; //趣味
 
     //コンストラクタ
